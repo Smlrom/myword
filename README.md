@@ -1,4 +1,5 @@
-# <h1 align="center"¡Hi! 👋 I'm samuel rom, programmer :smile:</h1>
+# ¡Hi! 👋 I'm samuel rom, programmer :smile:
+
 ## About me
 I am an enthusiast for technology and programming. 
 venezolano
@@ -12,25 +13,25 @@ My main passion is divided into two areas:
 
 ## Tecnologías y Herramientas
 - **Lenguajes de Programación**:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 - **Frameworks**: [Lista de frameworks]
 - **Herramientas**: [Lista de herramientas]
 
 ## Proyectos Destacados
-1. **[Nombre del Proyecto 1]**
-   - Descripción: [Breve descripción del proyecto]
-   - Tecnologías: [Tecnologías usadas]
-   - [Enlace al proyecto](URL del proyecto)
+1. **[Project 1. Curriculum and Website Blog]**
+ - Description: [I present a programmer resume, in addition to offering a direct link to other personalized sites created by me]
+ - Technologies: [Html, CSS, JavaScript]
+ - [Link to project](project URL)
 
 ## Contacto
-- **Email**: [tu-email@example.com]
-- **LinkedIn**: [Enlace a tu LinkedIn]
-- **Twitter**: [Enlace a tu Twitter]
+- **Email**: [rokerton@gmail.com]
+- **LinkedIn**: [[Enlace a tu LinkedIn](https://www.linkedin.com/in/saul-romero-702041222/)]
+- **Twitter**: [(https://x.com/rokerton)]
 
 ## Extras
-- Blog: [Enlace a tu blog si tienes]
-- [Cualquier otra cosa que quieras incluir]
+- Blog: Proximamente
