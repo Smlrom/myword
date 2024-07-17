@@ -29,9 +29,9 @@ My main passion is divided into two areas:
  - [Link to project](project URL)
 
 ## Contacto
-- **Email**: [rokerton@gmail.com]
-- **LinkedIn**: [[Enlace a tu LinkedIn](https://www.linkedin.com/in/saul-romero-702041222/)]
-- **Twitter**: [(https://x.com/rokerton)]
+- **Email**: rokerton@gmail.com
+- **Intagram**: https://www.instagram.com/t.chosen01/
+- **Twitter**: https://x.com/rokerton
 
 ## Extras
 - Blog: Proximamente
