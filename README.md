@@ -35,4 +35,4 @@ My main passion is divided into two areas:
 
 ## Extras
 - Blog: Proximamente
-- portfolios: https://smlrom.github.io/port1/
+- portfolios: [https://smlrom.github.io/port1/](https://smlrom.github.io/portafolios/)
