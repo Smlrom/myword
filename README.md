@@ -1,4 +1,4 @@
-# ¡Hi! 👋 I'm samuel rom, programmer :smile:
+# ¡Hi! 👋 I'm saul romero, programmer :smile:
 
 ## About me
 I am an enthusiast for technology and programming. 
