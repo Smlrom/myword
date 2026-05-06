@@ -2,7 +2,6 @@
 
 ## About me
 I am an enthusiast for technology and programming. 
-venezolano
 
 I have experience in the frontend, specialized in building and styling websites, as well as backend knowledge to improve service optimization.
 
@@ -30,9 +29,8 @@ My main passion is divided into two areas:
 
 ## Contacto
 - **Email**: rokerton@gmail.com
-- **Intagram**: https://www.instagram.com/t.chosen01/
 - **Twitter**: https://x.com/rokerton
 
 ## Extras
 - Blog: Proximamente
-- portfolios: [https://smlrom.github.io/port1/](https://smlrom.github.io/portafolios/)
+- portfolios: Proximamente
