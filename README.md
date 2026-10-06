@@ -29,7 +29,7 @@ My main passion is divided into two areas:
 
 ## Contacto
 - **Email**: rokerton@gmail.com
-- **Twitter**: https://x.com/rokerton
+- **Twitter**: https://x.com/@saulrj02
 
 ## Extras
 - Blog: Proximamente
